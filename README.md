@@ -1,5 +1,5 @@
 # ConcentrationiOS
-Matching card game for iOS - Stanford CS193P Assignment I
+Matching card game for iOS - Stanford CS193P Assignment 1
 
 Rules:
 1. Find all matching cards
